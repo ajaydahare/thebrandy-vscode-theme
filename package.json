@@ -1,0 +1,31 @@
+{
+    "name": "the-brandy-dark-theme",
+    "displayName": "The Brandy",
+    "description": "an amazing VS code dark theme",
+    "version": "0.0.1",
+    "publisher": "AjayDahare",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "dark theme",
+        "theme",
+        "coder theme",
+        "the brandy",
+        "Ajaydahare"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "The Brandy",
+            "uiTheme": "vs-dark",
+            "path": "./themes/The Brandy-color-theme.json"
+        }]
+    }
+}
