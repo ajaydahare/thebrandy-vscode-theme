@@ -1,12 +1,12 @@
 {
     "name": "the-brandy-dark-theme",
     "displayName": "The Brandy",
-    "description": "an amazing VS code dark theme",
+    "description": "a clean and amazing VS code dark theme",
     "version": "0.0.1",
     "publisher": "AjayDahare",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/ajaydahare/thebrandy-vscode-theme"
     },
     "keywords": [
         "dark theme",
